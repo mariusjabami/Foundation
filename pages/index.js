@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Foundation by Marius Jabami [Projecto Nêmesis]" />
+        <Header title="[Project Nêmesis]" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
